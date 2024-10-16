@@ -1,0 +1,143 @@
+.sin{
+
+	    text-align: center;
+    letter-spacing: 7px;
+    font-size: 20px;
+}
+
+.about{
+
+	text-align: center;
+}
+
+.ab{
+margin-left: 73px;
+    padding: 20px;
+    line-height: 30px;
+    width: 70%;
+    font-size: 18px;	}
+
+
+.aa{
+color: grey;
+   margin-left: 73px;
+    padding: 20px;
+    line-height: 30px;
+    width: 70%;
+    font-size: 18px;
+
+}
+
+.input{
+
+   font-size: 18px;
+    letter-spacing: 8px;
+    line-height: 50px;
+}
+
+.dd{
+   color: grey;
+    font-size: 15px;
+
+}
+
+.ac{
+text-align: center;
+    line-height: 100px;
+    font-weight: 500;
+    font-size: 40px;
+    letter-spacing: 8px;
+}
+
+
+
+.bb{
+padding: 100px;
+
+}
+
+.cc{
+   ont-size: 40px;
+    font-weight: 500;
+    letter-spacing: 8px;
+    line-height: 80px;
+}
+
+nav{
+width: 1500px;
+height: 75px;
+line-height: 75px;
+position: fixed;
+background-color: white;
+}
+
+   ul {display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+
+
+.da{
+font-size: 15px;
+font-weight: bold;
+float: left;
+color: black;
+text-transform: uppercase;
+letter-spacing: 2px;
+cursor: pointer;
+}
+
+.da:hover{
+ background-color: grey;
+}
+
+
+li{
+   display: inline-block;
+   list-style: none;
+}
+
+li a{
+font-size: 18px;
+text-transform: uppercasep;
+padding: 0px 30px;
+color: black;
+text-decoration: none;
+}
+
+li a:hover{
+background-color: grey;
+
+}
+
+
+.gr{
+color: #4141a3c7;
+font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.fem{
+margin-left: 80px;
+}
+
+.nel{
+   width: 150px;
+    font-size: 13px;
+    letter-spacing: 2px;
+    border: hidden;
+}
+
+.tab{
+
+   width: 1000px;
+    border-block: none;
+    border-style: hidden;
+    border-bottom: ridge;
+}
+}
